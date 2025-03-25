@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/KouriChat/KouriChat?style=for-the-badge&logo=starship&color=ff69b4)](https://github.com/KouriChat/KouriChat/stargazers)
 [![License](https://img.shields.io/badge/license-FSL-informational?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.11_➔_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B5B84)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B5B84)](https://www.python.org/downloads/)
 [![Community](https://img.shields.io/badge/QQ群-715616260-12B7F3?style=for-the-badge&logo=tencentqq)](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
 
 
@@ -14,7 +14,8 @@
 
 **最新整合包**：[夸克网盘下载](https://pan.quark.cn/s/c55dd13218ea)<br>
 **详细文档**：[项目官网](https://kourichat.com/docs/)<br>
-**角色广场已上线！**：[角色档案馆](https://avatars.kourichat.com/#/archive)
+**角色广场已上线！**：[角色档案馆](https://avatars.kourichat.com/#/archive)<br>
+**项目直属公益API（推荐，低价）**: [Kouri API](https://api.kourichat.com/)
 ----------------------------
 
 ## 🌟 效果示例
@@ -27,7 +28,7 @@
 
 - 通过[夸克网盘](https://pan.quark.cn/s/c55dd13218ea)下载项目，推荐转存，第一时间获得更新，我也会有收益
 - 最好有一台Windows Server服务器挂机，[雨云服务器五折券](https://www.rainyun.com/MzE0MTU=_)
-- [项目直属公益API（推荐）](https://api.kourichat.com/)（注册送20刀，签到送1-5刀）
+- [项目直属公益API（推荐，低价）](https://api.kourichat.com/)
 - [获取DeepSeek API Key](https://cloud.siliconflow.cn/i/aQXU6eC5)（免费15元额度）
 
 ---
